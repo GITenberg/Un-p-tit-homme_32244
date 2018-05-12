@@ -1,0 +1,39 @@
+_repo: Un-p-tit-homme_32244
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ferdinandus, A.
+    gutenberg_agent_id: '35741'
+    url: http://www.gutenberg.org/2009/agents/35741
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Jacob, Paul L.
+    - Dufour, Pierre
+    - Lacroix, Paul
+    - Jacob, Bibliophile
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2010-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32244'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Paris (France) -- Juvenile fiction'
+- !lcc 'PZ'
+title: Un p'tit homme
+url: http://www.gutenberg.org/ebooks/32244
