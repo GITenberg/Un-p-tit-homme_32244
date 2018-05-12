@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4290
     wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32244#Un-p-tit-homme
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2010-05-04'
 gutenberg_type: Text
